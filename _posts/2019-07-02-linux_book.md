@@ -3,9 +3,8 @@ layout: post
 comments: true
 title: Linux book recommendation and fun facts
 ---
-## Linux book recommendation and fun facts
 
-Hey everyone, this is my first post and I'll try to keep it short and sweet.
+Hey everyone! This is my first post and I'll try to keep it short and sweet.
 
 I want to share one of the most useful books for self-learning Linux command line that I came accross. Unsurprisingly, it is called **The Linux Command Line** by *William E. Shotts, Jr*, and is available for free.
 
