@@ -25,7 +25,7 @@ This book is very easy to read, contains a lot of examples and does not require 
 
 - I have `Ubuntu 16.04` as of now. Legend has it that I will soon upgrade to 18.04
 - My favorite editor is `nano`
-- Unusual command I needed often is `ls -1 | wc -l`. This prints out the number of items in your current direcory. Note the first "-1" is the number 1 and the second one "-l" is the lowercase of letter L. Using the lowercase L in both places would give you one more than the actual number, because `ls -l` prints one additional line showing the total count of lines and `wc -l` counts the number of lines given as an output from `ls -1`.
+- Unusual command I needed often is `ls -1 | wc -l`. This prints out the number of items in your current directory. Note the first "-1" is the number 1 and the second one "-l" is the lowercase of letter L. Using the lowercase L in both places would give you one more than the actual number, because `ls -l` prints one additional line showing the total count of lines and `wc -l` counts the number of lines given as an output from `ls -1`.
 
 
 
