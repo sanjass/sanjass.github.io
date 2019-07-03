@@ -1,3 +1,9 @@
+---
+layout: post
+comments: true
+title: MIT coursework so far
+---
+
 In this post I will list all the courses I have taken at MIT so far. I will do my best to keep the list up to date.
 
 The courses below are from my undergraduate degree (Sep. 2016 - expected June 2020). They include [General Institute Requirements](http://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/), [Departmental requirements](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) for my major [6-3](https://mitadmissions.org/blogs/entry/6-3/) as well as random fun classes.
