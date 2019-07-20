@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: [Part 1] Speed up your code (Async. Multiprocessing Python3) 
+title: (Part 1) Speed up your code (Async. Multiprocessing Python3) 
 ---
 
 ## [Part 1] Speed up your code (Async. Multiprocessing Python3) 
