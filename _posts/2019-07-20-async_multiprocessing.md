@@ -4,11 +4,9 @@ comments: true
 title: (Part 1) Speed up your code (Async. Multiprocessing Python3) 
 ---
 
-## [Part 1] Speed up your code (Async. Multiprocessing Python3) 
-
 You know the scenario: you have a list of datapoints and you need to apply certain function on each one. They don't depend on eachother. The order doesn't matter, you just need to process them all eventually.
 
-As you dataset (your list of elements) increases and the function itself starts doing more complex (CPU intensive) processing, you start to lose your patience.
+As your dataset (your list of elements) increases and the function itself starts doing more complex (CPU intensive) processing, you start to lose your patience.
 
 
 It's time to speed things up.
