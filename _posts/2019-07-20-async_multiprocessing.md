@@ -52,7 +52,7 @@ def count_vowels(sentence, idx):
 
 if __name__ == '__main__':
     result = [count_vowels(sent, idx) for idx, sent in enumerate(data)]
-    sorted_result = sorted(result, key=lambda x: x[0])  # sort first value
+    sorted_result = sorted(result, key=lambda x: x[0])  # sort by first value
     sorted_sentences = [data[idx] for _, idx in sorted_result]
     print(sorted_sentences)
 ```
@@ -95,9 +95,9 @@ However, this comes at a cost as it is a bit slower than asynchronous multiproce
 The [`multiprocessing`](https://docs.python.org/3/library/multiprocessing.html) library in python offers many options to parallelize your code and you should definitely check it out if your project demands other type of parallelism. 
 
 I strived to make this example generic enough so that people can apply it in their projects with small amount of tweaks.
- Some things that might vary for you which are easy to change are the number of arguments in your function, the number of output values, the stuff you're doing in the `update` callback function (called when processing for a datapoint done) etc. 
+ Some things that might vary for you which are easy to change are the number of arguments in your function, the number of output values, the stuff you're doing in the `update` callback function (called when processing for a datapoint is done) etc. 
 
- Finally, note that multiprocessing is worth it only if your data is actually large enough to see the difference; this toy example just shows how to write the code for multiprocessing, assuming your own large dataset.
+ Finally, note that multiprocessing is worth it only if your data is actually large enough to see the difference; this toy example just demonstrates how to write the code for multiprocessing, assuming your own large dataset.
 
 
 
