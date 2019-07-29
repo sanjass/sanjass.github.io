@@ -10,7 +10,7 @@ title: Python profiling (Timing decorator)
 In this post I'll explain how to use a Python timing decorator to see how long a particular function took to execute.
 
 
-We've seen the Python memoization decorator in another post. Again, a decorator serves as a wrapper for a function, 
+We've seen the Python memoization decorator in [another post](https://sanjass.github.io/notes/2019/07/28/speedup_memoization). Again, a decorator serves as a wrapper for a function, 
 altering the way the function behaves. Today, our decorator will simply measure the duration of a function
 execution using the [time](https://docs.python.org/3/library/time.html#module-time) built-in module.
 
