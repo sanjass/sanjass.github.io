@@ -65,7 +65,7 @@ execution took: 55417.119 ms
  What of we wanted to compute the 1000th, or 10000th Fibonacci number? Probably not in this lifetime with this function.
 
 ***
-**Note**: In all implementations below we use dictionary as a type, so
+**Note**: In all implementations below we use python dictionary as a cache, where the keys are the function inputs. So
  you need the function inputs to be of immutable type (like tuples, integers, strings) not mutable (such as lists, sets or dictionaries).
  
 ***
