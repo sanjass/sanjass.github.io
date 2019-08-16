@@ -65,8 +65,9 @@ execution took: 55417.119 ms
  What of we wanted to compute the 1000th, or 10000th Fibonacci number? Probably not in this lifetime with this function.
 
 ***
-**Note**: In all implementations below we use dictionary as a type, so
+**Note**: In all implementations below we use python dictionary as a cache, where the keys are the function inputs. So
  you need the function inputs to be of immutable type (like tuples, integers, strings) not mutable (such as lists, sets or dictionaries).
+ 
 ***
 
 ### Simple memoization decorator
@@ -108,7 +109,7 @@ execution took: 0.040 ms
 
 #### Single argument functions
 
-A faster memoization decorator for functions taking a single argument is the one using a dictionary:
+A faster memoization decorator for functions taking a single argument is the one using a class inheriting from the good old  dictionary:
 ```python
 def memodict(my_func):
     """Memoization decorator for a function taking a single argument """
@@ -152,7 +153,7 @@ execution took: 0.171 ms
 
 Well this post turned out longer than I planned, but hopefully it will be helpful to someone whose code is slow.
 The optimization benefits could be huge if you actually have repeating inputs to your function, so ask yourself to which of your functions this applies and feel free to
-sprinkle `@memoize` on top of them. Ensure that you've read when NOT to use memoization above.
+sprinkle your fancy `@memoize` decorator on top of them. Ensure that you've read above about when NOT to use memoization.
 
 ***
 Core code concepts courtesy to [Oren Tirosh](http://code.activestate.com/recipes/578231-probably-the-fastest-memoization-decorator-in-the-/) and related commenters. 
