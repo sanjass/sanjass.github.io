@@ -16,6 +16,17 @@ The courses below are from my undergraduate degree (Sep. 2016 - expected June 20
 
 ## MIT Coursework
 *(Click on the semester to see the courses)*
+<details><summary><b>Fall 2019</b></summary>
+<p>
+<ul style="font-size:16px">
+  <li>6.867 - Machine Learning (Graduate level)</li>
+  <li>6.035 - Computer Language Engineering</li>
+  <li>7.012 - Introductory Biology </li>
+  <li>UROP (Undegraduate Research)</li>
+ </ul>
+</p>
+</details>
+
 <details><summary><b>Spring 2019</b></summary>
 <p>
 <ul style="font-size:16px">
@@ -24,6 +35,7 @@ The courses below are from my undergraduate degree (Sep. 2016 - expected June 20
   <li>6.UAT - Oral Communication</li>
   <li>21G.713 - Spanish through Film</li>
   <li>15.S22 - Digital Law and Technology</li>
+  <li>UROP (Undegraduate Research)</li>
  </ul>
 </p>
 </details>
