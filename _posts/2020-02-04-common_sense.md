@@ -13,7 +13,7 @@ This January through my externship at IBM Research in Cambridge, MA I got introd
 
 ### Are intelligent systems intelligent?
 
-It turns out that "intelligent systems" are not that intelligent, or at least not as much as someone out of the field would think. Many of these systems are very specialized to do well in particular tasks, like classifying an image or translating from one lanaguage to another. However, these  systems lack what we call "common sense", the basic ability of humans to reason and understand things in a way that is common to nearly everyone and can expected from nearly everyone without the need for debate. A system that can beat the best players in the game Go, doesn't know what a glass is and that if a glass is broken you shouldn't pour water in it.
+It turns out that "intelligent systems" are not that intelligent, or at least not as much as someone out of the field would think. Many of these systems are very specialized to do well in particular tasks, like classifying an image or translating from one lanaguage to another. However, these  systems lack what we call "common sense", the basic ability of humans to reason and understand things in a way that is common to nearly everyone and can be expected from nearly everyone without the need for debate. A system that can beat the best players in the game Go, doesn't know what a glass is and that if a glass is broken you shouldn't pour water in it (duh).
 
 ### What do you mean by "Reasoning about Visual Intuitive Physics"?
 We want to develop models that can reason about the physical world from visual perspective, i.e. models that can simulate what our common sense tells us about the physical world based on what we have seen or are seeing. 
