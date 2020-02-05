@@ -16,6 +16,18 @@ The courses below are from my undergraduate degree (Sep. 2016 - expected June 20
 
 ## MIT Coursework
 *(Click on the semester to see the courses)*
+
+<details><summary><b>Spring 2020</b></summary>
+<p>
+<ul style="font-size:16px">
+  <li>6.864 - Advanced Natural Language Processing </li>
+  <li>6.885 - Probabilistic Programming and AI (pending)</li>
+  <li>24.09 - Minds and Machines (pending) </li>
+  <li>UROP (Undegraduate Research)</li>
+ </ul>
+</p>
+</details>
+
 <details><summary><b>Fall 2019</b></summary>
 <p>
 <ul style="font-size:16px">
