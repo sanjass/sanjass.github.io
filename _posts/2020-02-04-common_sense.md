@@ -7,7 +7,7 @@ title: Machine Common Sense
 
 
 This January through my externship at IBM Research in Cambridge, MA I got introduced to a very interesting area of AI, that is Machine Common Sense. To be more precise, the project was called "Reasoning about Visual Intuitive Physics". In this post I want to introduce this area and hopefully make people reading this more interested in Machine Common Sense.
-<img src="/files/voe.gif" width="30%" height="auto" display="block">
+<img src="/files/voe.gif" width="50%" height="auto" margin-left="auto" margin-right="auto"  display="block">
 
 
 ### Are intelligent systems intelligent?
@@ -27,7 +27,7 @@ We want to develop models that can reason about the physical world from visual p
 ### Woah, but even a baby knows that?!
 Yep. Actually, developmental psychology researchers have been working hard and experimenting with babies with years, to find that babies of only a couple of months show signs of common sense in certain areas. For example, if one makes a trick where an object disappears in front of a baby, the baby will stare at the scene for longer amount of time, indicating surprise, due to Violation of Expectation (VoE). The looking time has been used as a measure of "surprise" in babies. In our model we draw from developmental psychology and output a surprise score for a video, indicating the amount of surprise in a video. A plausible video should ideally get 0 surprise.
 <br>
-<img src="/files/surprised.jpg" width="50%" height="auto" display="block">
+<img src="/files/surprised.jpg" width="50%" margin-left="auto" margin-right="auto" height="auto" display="block">
 <br>
 
 ### So is common sense all about making sense of what you see?
