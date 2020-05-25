@@ -46,6 +46,8 @@ Think of something wonderful that happened to you in your life. For me, that was
 hedonically adapted to that fact and it does not excite me anymore. Hopefully, you don't judge me for that and realize that you would have done the same in my place. And this is normal, but also a bit sad because it means that anything super positive in your life will be short-lasted and be replaced with new problems and blessings over time. On
 the positive note, even the bad things that hurt you so much will also wean off. Life will go on regardless, the sun will rise again.
  > Good or bad, that too shall pass
+
+
 <img src="/files/hedonistic-treadmill.png" width="403px"/>
 
 
