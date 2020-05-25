@@ -19,7 +19,7 @@ this has [already been done](http://arvindbatra.blogspot.com/2019/09/the-science
 Instead, I will do my best to connect some of the common behaviors I encountered during my undergraduate college career with the theory presented in this course, with the hope that
  you will find yourself saying "well, that makes sense now". Note that this is only my interpretation and it is no way comprehensive.
  
- #### Minds do not think in terms of absolutes
+### Minds do not think in terms of absolutes
  
  The title of this subsection represents one of the so-called "annoying features of the mind". What it says is that our minds don't think in absolute terms but always think in comparative reference points. While you might find yourself thinking "yeah, I knew that", truly internalizing what this means is really powerful.
  
@@ -38,7 +38,7 @@ Instead, I will do my best to connect some of the common behaviors I encountered
    
    
    
-   ### Hedonic adaptation - getting used to the positive and negative things that are repetitive
+### Hedonic adaptation - getting used to the positive and negative things that are repetitive
    
    > “Among life's cruelest truths is this one: wonderful things are especially wonderful the first time they happen, but their wonderfulness wanes with repetition.” - Daniel Todd Gilbert
 
