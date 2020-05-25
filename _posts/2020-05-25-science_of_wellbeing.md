@@ -73,7 +73,7 @@ acting in accordance with that knowledge.
 
 ## Conclusion
 
-This post is getting long and there is so much more I could write. If you don't have the chance to take the course, try to refer to the summary I linked to in the beginning. There are sections about better wanting (what should we really want in life), about signature strengths (that can help you
+This post is getting long and there is so much more I could write. If you don't have the chance to take the course, try to refer to the [summary](http://arvindbatra.blogspot.com/2019/09/the-science-of-well-being-summary.html) I linked to in the beginning. There are sections about better wanting (what should we really want in life), about signature strengths (that can help you
 find a job you actually like), about flow (immersive activities that make you truly in the moment, when "time ceases to exist"), having a growth mindset (believing that you can get better with practice and hard work) and all other good stuff. 
 
 Understanding our brain, its functioning, our behaviors, our intercations with others and how it all affects us is a science in itself and I admire those who study it. This course provides a glimpse into these sciences and
