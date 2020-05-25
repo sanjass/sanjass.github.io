@@ -4,8 +4,8 @@ comments: true
 title: Coursera's "The Science of Well-being"
 ---
 
-Like any properly bored person quarantined amidst pandemic (cough COVID-19 cough), I 
-picked up to do something that I probably wouldn't have picked up otherwise.
+Like any properly bored person quarantined amidst a pandemic (cough COVID-19 cough), I 
+picked up to do something that I probably wouldn't have otherwise.
 
 I am talking about Coursera's most popular free course at the moment, which is Yale's ["The Science of Well-Being"](https://www.coursera.org/learn/the-science-of-well-being?utm_source=gg&utm_medium=sem&utm_content=09-ScienceofWellBeing-US&campaignid=9728548210&adgroupid=99699672436&device=c&keyword=science%20of%20well%20being&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=428916120688&hide_mobile_promo&gclid=CjwKCAjw2a32BRBXEiwAUcugiByjHOReMmO5B17grrzS_EaTUUx4BwMGw6lhRVCa06NP7yJKs57wshoCvx0QAvD_BwE).
 The description goes like this:
@@ -27,7 +27,7 @@ Instead, I will do my best to connect some of the common behaviors I encountered
   your GPA might still be okay-ish but not that impressive. So there you are, suffering the impostor syndrome and feeling like you're trash. Meanwhile, your friend who ended up in a more average college is breezing through all assignments
    and exams and getting that perfect GPA with much less effort and actual knowledge (this is not necessarily the case, but it is an illustrative example). Most importantly, they feel better about themselves (which can motivate them to pursue more challenging opportunities). Hopefully, you see the point; if only minds did not have this annoying feature of thinking about everything in relative terms, maybe we'd be happy with what we have, knowing that in absolute terms we are doing great by just being in college and having the opportunity to be educated.
    
-   Now, one must admit that this annoying feature is there for a reason. The absolute line of thinking is ambiguous. What is the lowest you can be, i.e. where is the rock-bottom? Being dead? One can argue that not being born is worse than that. But then, anyone you know is better than that rock-bottom and it is not too meaningful. Same thing for the highest point you can be, if there is such a limit. The point is, it is beneficial to
+   Now, one must admit that this annoying feature is there for a reason. The absolute line of thinking is ambiguous. What is the lowest you can be, i.e. where is the rock-bottom? Being dead? One can argue that not being born is worse than that. But then, anyone you know is better than that rock-bottom and it is not too meaningful. This extends for the highest point you can be, if there is such a limit. The point is, it is beneficial to
    think in relative terms to some extent. It tells you how good you're doing in certain aspects compared to others (though often detrimental to your happiness and satisfaction) and it makes you identify where you could improve. After all, society often works in relative ways. Colleges often look at your ranking in school, recruiters compare you to your peer applicants, your parents compare you to your siblings or friends in certain aspects. 
    Maybe the best approach would be to account for differences in resources and
    circumstances when comparing these individuals and try to come up with a ranking on the absolute scale.
@@ -67,8 +67,8 @@ Knowing this explicitly might help you let go of some things that don't serve yo
 
 When you think about losing your job or getting a low grade or breaking up with your significant other, you are really ONLY thinking about that and tightly related events, rarely about any other good things that do remain even after those "tragic events". Like, no matter which of the three things happen to you (you can add more stuff to the list), the sun will still rise,
 your favorite coffee shop will still work (unless it's a pandemic :) ), your family and friends will mostly be around, you can still go travel to a city where nobody knows you and you don't have to justify anything to anybody, you can still play your favorite games, watch movies, eat your favorite dishes, pick up a new hobby. Life has many aspects and letting ONE thing (no matter how major it seems) affect your
-perception of yourself is simply wrong. Nonetheless, that is one more annoying aspect of the brain; this is just how we are and it makes us unhappy. 
-Overcoming this is not easy when it is so built-in in our own minds, but one can help it by first being explicitly aware of its existence and then
+perception of yourself is simply wrong. Nonetheless, this is one more annoying aspect of the brain; this is just how we are and it makes us unhappy. 
+Overcoming this is not easy when it is so intrinsic to us, but one can help it by first being explicitly aware of its existence and then
 acting in accordance with that knowledge.
 
 ## Conclusion
@@ -76,5 +76,5 @@ acting in accordance with that knowledge.
 This post is getting long and there is so much more I could write. If you don't have the chance to take the course, try to refer to the summary I linked to in the beginning. There are sections about better wanting (what should we really want in life), about signature strengths (that can help you
 find a job you actually like), about flow (immersive activities that make you truly in the moment, when "time ceases to exist"), having a growth mindset (believing that you can get better with practice and hard work) and all other good stuff. 
 
-Understanding our brain, its functioning, our behaviors, our intercations with others and how it all affects us is a science in itself and I admire those who study it. This course is provides a glimpse into these sciences and
+Understanding our brain, its functioning, our behaviors, our intercations with others and how it all affects us is a science in itself and I admire those who study it. This course provides a glimpse into these sciences and
 I am fascinated by how much of what we experience every day it can explain. I am thinking, how much better would one be as a human if they knew all these things and actually implement them in their daily lives? There is a real value in these theories, if we only take the time to explore them. 
