@@ -21,9 +21,9 @@ The courses below are from my undergraduate degree (Sep. 2016 - expected June 20
 <p>
 <ul style="font-size:16px">
   <li>6.864 - Advanced Natural Language Processing </li>
-  <li>6.885 - Probabilistic Programming and AI (pending)</li>
-  <li>24.09 - Minds and Machines (pending) </li>
-  <li>UROP (Undegraduate Research)</li>
+  <li>6.885 - Probabilistic Programming and AI </li>
+  <li>24.09 - Minds and Machines (Philosophy) </li>
+  <li>UROP (Undegraduate Research) CSAIL</li>
  </ul>
 </p>
 </details>
