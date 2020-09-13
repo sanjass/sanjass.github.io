@@ -4,7 +4,7 @@ comments: true
 title: Diverse Decision Boundaries
 ---
 
-Diverse Decision Boundaries a.k.a. Diverse Hypotheses is one of the projects I worked on this past summer wth Prof. Pulkit Agrawal
+Diverse Decision Boundaries a.k.a. Diverse Hypotheses is one of the projects I worked on this past summer with Professor Pulkit Agrawal
 and PhD student Jacob Huh at the Improbable AI group at CSAIL MIT.
 
 The overarching goal of the project is to investigate and solve the problem of neural networks learning 
@@ -23,7 +23,7 @@ it is associated with the digit 2 in the train set. However, what if we truly wa
 the desired prediction label to be B? 
 
 
-<img src="/files/motivating_example.png" width="403px"/>
+<img src="/files/motivating_example.png" width="503px"/>
 
 In the synthetic example above we dealt with two MNIST digits
  with colored backgrounds, but this problem can be encountered in real life images too, for example having grass and yellow sand 
@@ -38,7 +38,7 @@ full intricacies of the data despite the full capacity to do so.
 Many experimental results verify this phenomena, such as the simple example below, where a DNN 
 trained on biased data fails to generalize when the bias shifts to a different class.
 
-<img src="/files/example_mnist.png" width="403px"/>
+<img src="/files/example_mnist.png" width="503px"/>
 
 ### Proposed Solutions
 One seemingly straightforward solution to this bias problem is to simply de-bias your dataset :). However,
