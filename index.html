@@ -52,9 +52,9 @@ contact: passive
 
 <style>
 	body {
-  background: #e6e6e6;
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
+  /* background: #e6e6e6; */
+  /* font-family: "Roboto", sans-serif; */
+  /* font-weight: 400; */
 }
 
 /*===== Vertical Timeline =====*/
@@ -73,7 +73,7 @@ contact: passive
   text-transform: uppercase;
   background: #00b0bd;
   padding: 15px 23px;
-  color: #fff;
+  color: #ffffff;
   max-width: 5%;
   width: 100%;
   text-align: center;
@@ -108,7 +108,7 @@ contact: passive
 .timeline-article .timeline-author {
   display: block;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 24px;
   color: #242424;
   text-align: right;
@@ -117,9 +117,9 @@ contact: passive
 .timeline-article .content-right {
   position: relative;
   width: auto;
-  border: 1px solid #ddd;
+  border: 3px solid #65E9D4;
   background-color: #fff;
-  box-shadow: 0 1px 3px rgba(0,0,0,.03);
+  box-shadow: 0 1px 3px rgba(0,0,0,.3);
   padding: 27px 25px;
 }
 .timeline-article p {
@@ -132,11 +132,13 @@ contact: passive
   position: relative;
 }
 .timeline-article p span.article-number {
-  position: absolute;
+  /* position: absolute; */
+	display : block;
+	text-align: topleft;
   font-weight: 300;
-  font-size: 44px;
-  top: 10px;
-  left: -60px;
+  font-size: 22px;
+  top: 5px;
+  /* left: -60px; */
   color: #00b0bd;
 }
 .timeline-article .content-left-container {
@@ -149,9 +151,9 @@ contact: passive
 .timeline-article .content-right:before{
   position: absolute;
   top: 20px;
-  font-size: 23px;
+  font-size: 33px;
   font-family: "FontAwesome";
-  color: #fff;
+  color: #00b0bd;
 }
 .timeline-article .content-left:before {
   content: "\f0da";
@@ -168,7 +170,7 @@ contact: passive
   width: 62px;
   height: 62px;
   margin-left: -31px;
-  color: #fff;
+  color: #ffffff;
   border-radius: 100%;
   background: #00b0bd;
 }
@@ -179,11 +181,11 @@ contact: passive
   font-weight: 900;
 }
 .timeline-article .meta-date .date {
-  font-size: 30px;
+  font-size: 16px;
   line-height: 40px;
 }
 .timeline-article .meta-date .month {
-  font-size: 18px;
+  font-size: 12px;
   line-height: 10px;
 }
 /*===== // Vertical Timeline =====*/
@@ -261,12 +263,6 @@ contact: passive
 				 <div class="content-left">
 					 <p> Adversarial Optimization in source code <span class="article-number">ALFA, CSAIL, MIT</span></p>
 				 </div>
-				 <span class="timeline-author">Graduate Research assistant</span>
-			 </div>
-			 <div class="content-right-container">
-				 <div class="content-right">
-					 <p><span class="article-number">Improbable AI, CSIAL, MIT</span></p>
-				 </div>
 				 <span class="timeline-author">Graduate Research Assistant</span>
 			 </div>
 			 <div class="meta-date">
@@ -275,6 +271,27 @@ contact: passive
 			 </div>
 		 </div>
 		 <!-- // Article -->
+
+		 <!-- Article -->
+		<div class="timeline-article">
+			<!-- <div class="content-left-container">
+				<div class="content-left">
+					<p> Adversarial Optimization in source code <span class="article-number">ALFA, CSAIL, MIT</span></p>
+				</div>
+				<span class="timeline-author">Graduate Research Assistant</span>
+			</div> -->
+			<div class="content-right-container">
+				<div class="content-right">
+					<p><span class="article-number">Improbable AI, CSAIL, MIT</span></p>
+				</div>
+				<span class="timeline-author">Graduate Research Assistant</span>
+			</div>
+			<div class="meta-date">
+				<span class="date">2020</span>
+				<span class="month">Feb-Aug</span>
+			</div>
+		</div>
+		<!-- // Article -->
 
 
 
