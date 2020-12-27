@@ -10,34 +10,55 @@
 </head>
 
 <body>
-  <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
-    <div class="navbar-brand">
-      <div class="navbar-item is-hidden-desktop">
-        <a href="https://github.com/mmacneil" class="icon is-large has-text-light">
-          <i class="fab fa-2x fa-github"></i>
-        </a>
+  <nav class="navbar is-primary is-fixed-top" role="navigation" aria-label="main navigation">
+   
+    <div class="navbar-menu">
+      <div class="navbar-start">
+        <div class="navbar-item">
+          <a href="#about" class="is-large has-text-light">
+            About me
+          </a>
+        </div>
+        <div class="navbar-item">
+          <a href="#education" class="is-large has-text-light">
+            Education
+          </a>
+        </div>
+        <div class="navbar-item">
+          <a href="#industryexperience" class="is-large has-text-light">
+            Industry Experience
+          </a>
+        </div>
+        <div class="navbar-item">
+          <a href="#researchexperience" class="is-large has-text-light">
+            Research Experience
+          </a>
+        </div>
+        <div class="navbar-item">
+          <a href="#projects" class="is-large has-text-light">
+            Projects
+          </a>
+        </div>
+        <div class="navbar-item">
+          <a href="#contact" class="is-large has-text-light">
+            Contact
+          </a>
+        </div>
       </div>
       
-    </div>
-    <div class="navbar-menu">
       <div class="navbar-end">
         <div class="navbar-item">
           <a href="https://github.com/sanjass" class="icon is-large has-text-light">
             <i class="fab fa-2x fa-github"></i>
           </a>
         </div>
-        <!-- <div class="navbar-item">
-          <a href="https://fullstackmark.com" class="icon is-large has-text-light">
-            <i class="fas fa-2x fa-globe"></i>
-          </a>
-        </div> -->
       </div>
     </div>
   </nav>
 
   <section class="hero is-primary is-bold">
     <div class="hero-body">
-      <div class="container">
+      <div style="padding-top: 50px;" class="container">
         <div class="level">
           <div class="level-item has-text-centered">
             <figure class="image is-128x128">
@@ -56,7 +77,7 @@
             </h2>
             <p>
               <a href="docs/Simonovikj.pdf" class="icon has-text-light">
-                <i class="fas fa-file-pdf"></i> <strong>Resume</strong>
+                <i class="fas fa-file-pdf fa-lg"></i> <strong>Resume</strong>
               </a>
             </p>
           </div>
@@ -65,6 +86,9 @@
     </div>
   </section>
 
+  <div id="about"></div>
+  <br>
+  <br>
   <section class="section">
     <div class="container">
       <h1 class="title">About Me</h1>
@@ -82,27 +106,29 @@
     </div>
   </section>
 
+  <div id="industryexperience"></div>
+  <br>
+  <br>
   <section class="section">
     <div class="container">
-      <h1 class="title">Experience</h1>
+      <h1 class="title"> Industry Experience</h1>
       <hr />
-      <!-- <div class="card">
+      <div class="card">
         <div class="card-content">
           <div class="media">
             <div class="media-left">
               <figure class="image is-48x48">
-                <img src="img/dunder-mifflin-logo.png" alt="Placeholder image">
+                <img src="img/MSLOGO.png" alt="Placeholder image">
               </figure>
             </div>
             <div class="media-content">
-              <p class="title is-4">Company Name</p>
-              <p class="subtitle is-6">Title - <time datetime="2018-1">January 2018</time> - <time
-                  datetime="2019-9">Sepemter 2019</time> </p>
+              <p class="title is-4">Microsoft</p>
+              <p class="subtitle is-6">Data Science intern - <time datetime="2021-1">expected January 2021</time></p>
             </div>
           </div>
           <div class="content">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.</p>
-            <ul>
+            <p>Developing intelligent components for Word, Excel and PowerPoint</p>
+            <!-- <ul>
               <li>Noteworthy achievment here.</li>
               <li>Noteworthy achievment here.</li>
               <li>Noteworthy achievment here.</li>
@@ -114,6 +140,103 @@
               <span class="tag">.net core</span>
               <span class="tag">azure</span>
               <span class="tag">devops</span>
+            </div> -->
+          </div>
+        </div>
+      </div>
+
+      
+
+      <div class="card card-gap">
+        <div class="card-content">
+          <div class="media">
+            <div class="media-left">
+              <figure class="image is-48x48">
+                <img src="img/ibm.png" alt="Placeholder image">
+              </figure>
+            </div>
+            <div class="media-content">
+              <p class="title is-4">IBM Research</p>
+              <p class="subtitle is-6">Research Intern - <time datetime="2020-1">January 2020</time> - <place>Cambridge, MA</place></p>
+            </div>
+          </div>
+          <div class="content">
+            <p>Machine Commonsense Reasoning - visual intuitive physics  <a href="http://physadept.csail.mit.edu/" class="icon is-small has-text-dark" > <i class="fas fa-external-link-alt"></i></a></p>
+            <ul>
+              <li>Modeled visual intuitive physics via perception and inference modules in order to detect violation of expectation</li>
+              <li>Detected critical deficiencies in the given framework and delivered timely solutions in a critical team evaluation period</li>
+            </ul>
+            <div class="tags">
+              <span class="tag">python</span>
+              <span class="tag">pytorch</span>
+              <span class="tag">pybullet</span>
+              <span class="tag">docker</span>
+              <span class="tag">git/github</span>
+              <span class="tag">streamlit</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card card-gap">
+        <div class="card-content">
+          <div class="media">
+            <div class="media-left">
+              <figure class="image is-48x48">
+                <img src="img/qualcomm.png" alt="qualcomm logo">
+              </figure>
+            </div>
+            <div class="media-content">
+              <p class="title is-4">Qualcomm</p>
+              <p class="subtitle is-6">Engineering Intern - <time datetime="2019-6">June 2019</time> - <time
+                datetime="2019-8">August 2019</time> - <place>San Diego, California</place> </p>            </div>
+          </div>
+          <div class="content">
+            <p>Internal tools - automatic triage of build and test failures for the Secure Systems Group</p>
+            <ul>
+              <li>Used ML and NLP techiniques to identify known and detect new failure signatures from large logfiles</li>
+              <li>Built and deployed Python end-to-end automated framework to be used as an internal tool for the team</li>
+            </ul>
+            <div class="tags">
+              <span class="tag">python</span>
+              <span class="tag">scikit-learn</span>
+              <span class="tag">pytorch</span>
+              <span class="tag">git/perforce</span>
+              <span class="tag">html</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card card-gap">
+        <div class="card-content">
+          <div class="media">
+            <div class="media-left">
+              <figure class="image is-48x48">
+                <img src="img/shell.png" alt="shell logo">
+              </figure>
+            </div>
+            <div class="media-content">
+              <p class="title is-4">Shell</p>
+              <p class="subtitle is-6">Data Science Intern - <time datetime="2018-6">June 2018</time> - <time
+                datetime="2018-8">August 2018</time> - <place>Bangalore, India</place></p>            </div>
+          </div>
+          <div class="content">
+            <p>Internal tools - Text summarization tool for strategy teams</p>
+            <ul>
+              <li>Executed recent algorithms and Deep Learning models for Text Summarization</li>
+              <li>Devised a Python framework that scrapes and summarizes relevant articles for strategy teams</li> 
+              <li>The proposed solution was selected to be demonstrated at Shell Global AI event in Nov. 2018</li>
+            </ul>
+            <div class="tags">
+              <span class="tag">python</span>
+              <span class="tag">nltk</span>
+              <span class="tag">tensorflow</span>
+              <span class="tag">elasticsearch</span>
+              <span class="tag">selenium</span>
+              <span class="tag">scrapy</span>
+              <span class="tag">git/github</span>
+
             </div>
           </div>
         </div>
@@ -123,41 +246,153 @@
           <div class="media">
             <div class="media-left">
               <figure class="image is-48x48">
-                <img src="img/pied-piper-logo.png" alt="Placeholder image">
+                <img src="img/baseoperations.png" alt="black labs logo">
               </figure>
             </div>
             <div class="media-content">
-              <p class="title is-4">Company Name</p>
-              <p class="subtitle is-6">Title - <time datetime="2018-1">August 2017</time> - <time
-                  datetime="2017-9">January 2018</time></p>
-            </div>
+              <p class="title is-4">Base Operations</p>
+              <p class="subtitle is-6">Software Engineering Intern - <time datetime="2018-1">January 2018</time> - <place>Cambridge, Massachusetts</place></p>            </div>
           </div>
           <div class="content">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.</p>
+            <p>Developing app for street-level threat assesment</p>
             <ul>
-              <li>Noteworthy achievment here.</li>
-              <li>Noteworthy achievment here.</li>
-              <li>Noteworthy achievment here.</li>
+              <li>Served as a backend developer and data engineer in an early-stage start-up</li>
+              <li>Implemented from scratch and deployed in production the backend of major features as well as the ETL for tweets and analysis</li>
+              <li>Worked on multiple aspects of the project, including conceptualization/ideation, implementation, testing</li> 
             </ul>
             <div class="tags">
-              <span class="tag">c#</span>
-              <span class="tag">xamarin</span>
-              <span class="tag">asp.net core</span>
-              <span class="tag">.net core</span>
-              <span class="tag">azure</span>
-              <span class="tag">devops</span>
+              <span class="tag">python</span>
+              <span class="tag">flask</span>
+              <span class="tag">SQL</span>
+              <span class="tag">jQuery</span>
+              <span class="tag">postman</span>
+              <span class="tag">git/github</span>
             </div>
           </div>
         </div>
       </div>
+
+      <div class="card card-gap">
+        <div class="card-content">
+          <div class="media">
+            <div class="media-left">
+              <figure class="image is-48x48">
+                <img src="img/blacklabs.png" alt="black labs logo">
+              </figure>
+            </div>
+            <div class="media-content">
+              <p class="title is-4">Black Labs</p>
+              <p class="subtitle is-6">Software Engineering Intern - <time datetime="2017-7">July 2017</time> - <time
+                datetime="2017-8">August 2017</time> - <place>Chihuahua, Mexico</place></p>            </div>
+          </div>
+          <div class="content">
+            <p>Smart Digital Government - development of an assistant chatbot</p>
+            <ul>
+              <li>Used NLP techiniques to develop and improve an assistant chatbot</li>
+              <li>Added voice control and audio output, ability to answer unseen questions, increased accuracy</li> 
+            </ul>
+            <div class="tags">
+              <span class="tag">python</span>
+              <span class="tag">javascript</span>
+              <span class="tag">html/css</span>
+              <span class="tag">nltk</span>
+              <span class="tag">scrapy</span>
+              <span class="tag">git/github</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   </section> 
+
+  <div id="researchexperience"></div>
+  <br>
+  <br>
+  <section class="section">
+    <div class="container">
+      <h1 class="title"> Research Experience</h1>
+      <hr />
+
+      <div class="card card-gap">
+        <div class="card-content">
+          <div class="media">
+            <div class="media-left">
+              <figure class="image is-48x48">
+                <img src="img/csail.jpg" alt="Placeholder image">
+              </figure>
+            </div>
+            <div class="media-content">
+              <p class="title is-4">CSAIL - Improbable AI Lab</p>
+              <p class="subtitle is-6">Graduate Research Assistant - <time datetime="20120-2">February 2020</time> - present - <place>Cambridge, MA</place></p>
+            </div>
+          </div>
+          <div class="content">
+            <p>Supervised by Prof. Pulkit Agrawal</p>
+            <ul>
+              <li>Research is theoretical Deep Learning to induce useful priors to learn more human-aligned features</li>
+              <li>Designing and executing experiments, code implementation, curating datasets, reviewing literature</li>
+              <li>Produced and presented milestone report with novel experimental results which are guiding further research (Aug 2020)</li>
+            </ul>
+            <div class="tags">
+              <span class="tag">python</span>
+              <span class="tag">pytorch</span>
+              <span class="tag">bash scripting</span>
+              <span class="tag">jupyter notebooks</span>
+              <span class="tag">streamlit</span>
+              <span class="tag">git/github</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card card-gap">
+        <div class="card-content">
+          <div class="media">
+            <div class="media-left">
+              <figure class="image is-48x48">
+                <img src="img/csail.jpg" alt="Placeholder image">
+              </figure>
+            </div>
+            <div class="media-content">
+              <p class="title is-4">CSAIL - ALFA Lab (Anyscale Learning For All)</p>
+              <p class="subtitle is-6">Undergraduate researcher - <time datetime="2019-2">February 2019</time> - <time
+                  datetime="2020-5">May 2020</time></p>
+            </div>
+          </div>
+          <div class="content">
+            <p>Supervised by Prof. Una-May O'Reilly</p>
+            <ul>
+              <li>Developed Deep Learning models (Tree-Structured VAEs, Seq2Seq) to detect malicious PowerShell scripts</li>
+              <li>Fully curated large unlabeled and unstructured open-source PowerShell dataset</li>
+              <li>Co-authored a resulting research paper as a first author: Representation Learning for Code Malware <a href="https://sanjass.github.io/files/rep_learn_paper.pdf" class="icon is-small has-text-dark" > <i class="fas fa-external-link-alt"></i></a> </li>
+              <li>Poster presented at IBM AI Research Week, AI Horizons Colloquium (Sept. 2019) <a href="https://alfagroup.csail.mit.edu/sites/default/files/documents/IBM_Poster_final.pdf" class="icon is-small has-text-dark" > <i class="fas fa-external-link-alt"></i></a> </li> </li>
+            </ul>
+            <div class="tags">
+              <span class="tag">python</span>
+              <span class="tag">pytorch</span>
+              <span class="tag">powershell</span>
+              <span class="tag">bash</span>
+              <span class="tag">streamlit</span>
+              <span class="tag">git/github</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+  
+  <div id="projects"></div>
+  <br>
+  <br>
 
   <section class="section">
     <div class="container">
       <h1 class="title">Projects</h1>
       <hr />
-      <div class="tile is-ancestor">
+      To come
+      <!-- <div class="tile is-ancestor">
         <div class="tile is-vertical is-12">
           <div class="tile">
             <div class="tile is-parent">
@@ -216,11 +451,13 @@
             </div>
           </div>
         </div>
-      </div>
-    </div> -->
-    To come
+      </div> -->
+    </div>
   </section> 
 
+  <div id="education"></div>
+  <br>
+  <br>
  <section class="section">
     <div class="container">
       <h1 class="title">Education</h1>
@@ -275,6 +512,9 @@
     </div>
   </section>
 
+  <div id="contact"></div>
+  <br>
+  <br>
   <section class="section">
     <div class="container">
       <h1 class="title">Contact</h1>
