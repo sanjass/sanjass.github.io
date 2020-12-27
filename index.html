@@ -391,8 +391,7 @@
     <div class="container">
       <h1 class="title">Projects</h1>
       <hr />
-      To come soon
-      <!-- <div class="tile is-ancestor">
+      <div class="tile is-ancestor">
         <div class="tile is-vertical is-12">
           <div class="tile">
             <div class="tile is-parent">
@@ -400,20 +399,20 @@
                 <p class="title">LabelLearn</p>
                 <p class="subtitle is-6">HackMIT 2019 - overall winner</p>
                 <figure class="image is-3by2">
-                  <img class="modal-trigger" data-target="project-1-modal" src="img/carousel/project1pic1.jpg">
+                  <img class="modal-trigger" data-target="project-1-modal" src="img/carousel/project1pic4.jpg">
                 </figure>
               </article>
-            </div> -->
-            <!-- <div class="tile is-parent">
+            </div> 
+             <div class="tile is-parent">
               <article class="tile is-child notification">
-                <p class="title">Project title</p>
-                <p class="subtitle is-6">Project subtitle</p>
+                <p class="title">PoseNet-Art</p>
+                <p class="subtitle is-6">AI@MIT Labs - applied AI at MIT</p>
                 <figure class="image is-4by3">
-                  <img class="modal-trigger" data-target="project-2-modal" src="img/project-2-cover.png">
+                  <img class="modal-trigger" data-target="project-2-modal" src="img/carousel/project2pic4.png">
                 </figure>
               </article>
             </div>
-            <div class="tile is-parent">
+            <!-- <div class="tile is-parent">
               <article class="tile is-child notification">
                 <p class="title">Project title</p>
                 <p class="subtitle is-6">Project subtitle</p>
@@ -421,11 +420,11 @@
                   <img class="modal-trigger" data-target="project-3-modal" src="img/project-3-cover.png">
                 </figure>
               </article>
-            </div> -->
+            </div> 
           </div>
         </div>
       </div>
-      <!-- <div class="tile is-ancestor">
+       <div class="tile is-ancestor">
         <div class="tile is-vertical is-12">
           <div class="tile">
             <div class="tile is-parent">
@@ -458,7 +457,9 @@
           </div>
         </div>
       </div> -->
+      
     </div>
+    Site under development - more to be added soon
   </section> 
 
   <div id="education"></div>
@@ -567,6 +568,9 @@
 
         <div id="project-1-modal-carousel" class="carousel">
           <figure class="image is-4by3 carousel-cell">
+            <img src="img/carousel/project1pic4.jpg">
+          </figure>
+          <figure class="image is-4by3 carousel-cell">
             <img src="img/carousel/project1pic1.jpg">
           </figure>
           <figure class="image is-4by3 carousel-cell">
@@ -593,15 +597,19 @@
             working on the backend and ML portion of the project and sharing the logistics responsibilities in the team.
           </p>
           <p>
-            <a href="https://devpost.com/software/doway">Click to learn more</a>
+            <a target="_noblank" href="https://devpost.com/software/doway">Click to learn more</a>
           </p>
             
            
           <div class="tags">
-            <span class="tag">angular</span>
-            <span class="tag">mongo</span>
-            <span class="tag">typscript</span>
-            <span class="tag">node</span>
+            <span class="tag">aws sagemaker</span>
+            <span class="tag">google firebase</span>
+            <span class="tag">python</span>
+            <span class="tag">node.js</span>
+            <span class="tag">express.js</span>
+            <span class="tag">spacy</span>
+            <span class="tag">gensim</span>
+
           </div>
 
         </div>
@@ -613,40 +621,52 @@
     </div>
   </div>
 
-  <!-- <div id="project-2-modal" class="modal">
+   <div id="project-2-modal" class="modal">
     <div class="modal-background"></div>
     <div class="modal-card">
       <header class="modal-card-head">
-        <p class="modal-card-title">Project title</p>
+        <p class="modal-card-title">PoseNet-Art - AI@MIT Labs - applied AI at MIT </p>
         <button class="delete" aria-label="close"></button>
       </header>
       <section class="modal-card-body">
 
         <div id="project-2-modal-carousel" class="carousel">
           <figure class="image is-4by3 carousel-cell">
-            <img src="img/carousel/1.png">
+            <img src="img/carousel/project2pic4.png">
           </figure>
           <figure class="image is-4by3 carousel-cell">
-            <img src="img/carousel/2.png">
+            <img src="img/carousel/project2pic3.png">
           </figure>
           <figure class="image is-4by3 carousel-cell">
-            <img src="img/carousel/3.png">
+            <img src="img/carousel/project2pic2.png">
+          </figure>
+          <figure class="image is-4by3 carousel-cell">
+            <img src="img/carousel/project2pic1.png">
           </figure>
         </div>
 
         <div class="content">
 
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore
-            magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-            commodo
-            consequat.</p>
+          <p>PoseNet Art is an interactive app where the user’s motion activates real-time animations and sounds. It is meant to be used for creative and entertainment purposes.
+          </p>
+          <p>
+            PoseNet is a machine learning model for real-time pose estimation. This project uses an implementation from ml5.js, specifically the light MobileNetV2 version.
+            Additionally, the model runs on the client side, so there is no extermal API call overhead. It also utilizes p5.js to create animations and Tone.js to create sound effects.
+          </p> 
+          <p>
+            PoseNet-Art was created in the fall of 2020 as part of the inaugural cohort of AI@MIT Labs.</p>
+          </p>
+          <p>This project was a higly collaborative effort and some of my contributions include but not are limited to adding sound effects, 
+            additional animations, front-end beautification, toggling/selection functionalities, testing, documentation.</p>
+          <p> <a target="__noblank" href="https://github.com/ddgond/posenet-art">Click here to see more</a></p>
 
-          <div class="tags">
-            <span class="tag">angular</span>
-            <span class="tag">mongo</span>
-            <span class="tag">typscript</span>
-            <span class="tag">node</span>
+            <div class="tags">
+            <span class="tag">javascript</span>
+            <span class="tag">css</span>
+            <span class="tag">html</span>
+            <span class="tag">ml5.js</span>
+            <span class="tag">tone.js</span>
+            <span class="tag">p5.js</span>
           </div>
 
         </div>
@@ -657,7 +677,7 @@
       </footer>
     </div>
   </div>
-
+<!--
   <div id="project-3-modal" class="modal">
     <div class="modal-background"></div>
     <div class="modal-card">
